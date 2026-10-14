@@ -1,6 +1,8 @@
 # 會議紀錄 skill（meeting-minutes-zh）
 
-這個 skill 讓 Claude 把會議逐字稿整理成正式的繁體中文會議紀錄，用詞照台灣的習慣寫。紀錄固定分成七節，從會議基本資訊寫到後續建議；會中有人提供統計、參考網站或截圖時，會再加第八節「補充資訊」。Claude 整理完會產出 Google 文件或 Word 檔，整理出來的樣子可以看[範例](references/example-minutes.md)。
+這個 skill 讓 Claude 把會議逐字稿整理成正式的繁體中文會議紀錄，用詞照台灣的習慣寫。紀錄固定分成七節，從會議基本資訊寫到後續建議；會中有人提供統計、參考網站或截圖時，會再加第八節「補充資訊」。Claude 整理完會產出 Google 文件或 Word 檔。
+
+完成的會議紀錄長什麼樣子，可以看這份[範例](references/example-minutes.md)。
 
 ## 怎麼安裝
 
