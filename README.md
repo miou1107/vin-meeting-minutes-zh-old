@@ -25,7 +25,7 @@
 | 五、待確認事項 | 還沒定案的事，以及要向誰確認 |
 | 六、行動方案 | 誰負責做什麼、什麼時候完成 |
 | 七、其他建議 | 下次會議可以聚焦的事、可以延後的議題 |
-| 八、補充資訊 | 會後提供的統計、參考網站、截圖；有資料才放這一節 |
+| 八、補充資訊 | 會後提供的統計、參考網站、截圖；有額外補充資料才會有此段 |
 
 ## 怎麼安裝
 
@@ -39,7 +39,7 @@
 
 先告訴 Claude 這個專案有哪些人、各自負責什麼。Claude 會把這些存成人員對照，之後每一場都會拿來判斷是誰在講話。沒有這份名單，很多段落 Claude 分不出是誰講的，只能先寫單位，再請你逐段確認。
 
-## 安裝指令（給 AI 或熟悉指令的人看）
+## 安裝指令（給 AI 的指令）
 
 - Claude Code 安裝：`git clone https://github.com/miou1107/vin-meeting-minutes-zh ~/.claude/skills/vin-meeting-minutes-zh`
 - Claude Code 更新：`git -C ~/.claude/skills/vin-meeting-minutes-zh pull`
