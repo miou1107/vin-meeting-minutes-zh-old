@@ -1,5 +1,5 @@
 ---
-name: "meeting-minutes-zh"
+name: "vin-meeting-minutes-zh"
 description: "把會議逐字稿整理成繁體中文正式會議紀錄，發成使用者自己公司帳號底下的 Google 文件；這台電腦沒有 Google 登入時改交 Word 檔。所有專案、所有客戶（政府機關、企業、公司內部會議）整理會議紀錄都用這一個 skill；用在使用者貼上或指定逐字稿、丟一個 Gmail 連結，或說「整理今天的會議」「整理會議記錄」時；設定好 Gmail 授權後，可以從使用者的 Gmail 抓逐字稿、從行事曆抓與會人員，整理完把信件給他看，他說發信就從他的 Gmail 寄出。"
 ---
 

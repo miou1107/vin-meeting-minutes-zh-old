@@ -1,4 +1,4 @@
-# 會議紀錄 skill（meeting-minutes-zh）
+# 會議紀錄 skill（vin-meeting-minutes-zh）
 
 這個 skill 讓 Claude 把會議逐字稿整理成正式的繁體中文會議紀錄，用詞照台灣的習慣寫。Claude 整理完會產出 Google 文件或 Word 檔。
 
@@ -29,7 +29,7 @@
 
 ## 怎麼安裝
 
-把這個網址給你的 AI，請他直接安裝就好：https://github.com/miou1107/meeting-minutes-zh
+把這個網址給你的 AI，請他直接安裝就好：https://github.com/miou1107/vin-meeting-minutes-zh
 
 ## 之後怎麼更新
 
@@ -41,6 +41,7 @@
 
 ## 安裝指令（給 AI 或熟悉指令的人看）
 
-- Claude Code 安裝：`git clone https://github.com/miou1107/meeting-minutes-zh ~/.claude/skills/meeting-minutes-zh`
-- Claude Code 更新：`git -C ~/.claude/skills/meeting-minutes-zh pull`
+- Claude Code 安裝：`git clone https://github.com/miou1107/vin-meeting-minutes-zh ~/.claude/skills/vin-meeting-minutes-zh`
+- Claude Code 更新：`git -C ~/.claude/skills/vin-meeting-minutes-zh pull`
+- 如果之前裝的是舊名稱 meeting-minutes-zh，先把資料夾改成新名稱再更新：`mv ~/.claude/skills/meeting-minutes-zh ~/.claude/skills/vin-meeting-minutes-zh && git -C ~/.claude/skills/vin-meeting-minutes-zh remote set-url origin https://github.com/miou1107/vin-meeting-minutes-zh && git -C ~/.claude/skills/vin-meeting-minutes-zh pull`
 - claude.ai 網頁版：下載這個 repo 的 zip 檔，到設定裡的 Skills 頁面上傳。
